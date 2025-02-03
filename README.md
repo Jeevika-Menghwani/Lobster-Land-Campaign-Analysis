@@ -11,6 +11,7 @@ Columns:
 customerID: Unique identifier for customers
 campaign_seen: The marketing campaign a customer interacted with
 total_spending: The amount spent by the customer
+
 📈 Key Analyses
 
 Campaign Popularity Analysis
